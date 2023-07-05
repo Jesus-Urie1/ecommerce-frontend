@@ -41,9 +41,9 @@ export default function Header() {
     <StyledHeader>
       <Center>
         <Wrapper>
-          <Logo href="/">SegundoRound Hola bb</Logo>
+          <Logo href="/">SegundoRound</Logo>
           <StyledNav>
-            <NavLink href={"/"}>Inicio</NavLink>
+            <NavLink href={"/"}>Hola bb</NavLink>
             <NavLink href={"/productos"}>Productos</NavLink>
             <NavLink href={"/categorias"}>Categorias</NavLink>
             <NavLink href={"/cuenta"}>Cuenta</NavLink>
