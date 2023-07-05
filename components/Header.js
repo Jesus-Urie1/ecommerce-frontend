@@ -41,7 +41,7 @@ export default function Header() {
     <StyledHeader>
       <Center>
         <Wrapper>
-          <Logo href="/">Ecommerce</Logo>
+          <Logo href="/">SegundoRound Hola bb</Logo>
           <StyledNav>
             <NavLink href={"/"}>Inicio</NavLink>
             <NavLink href={"/productos"}>Productos</NavLink>
